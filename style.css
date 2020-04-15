@@ -1,0 +1,36 @@
+h1 {
+	color:cornflowerblue;
+	text-align: center;
+} 
+div {
+    background-color: rgb(182, 219, 231);
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: 10px solid rgb(12, 12, 112);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    border: 2px solid black;
+    margin: 20px;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+th{
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
+.name{
+    text-decoration: underline;
+}
